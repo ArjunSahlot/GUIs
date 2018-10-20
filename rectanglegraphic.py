@@ -1,0 +1,12 @@
+import tkinter as tk
+import turtle
+
+root = tk.Tk()
+
+for i in range(1,3):
+    turtle.forward(50)
+    turtle.left(90)
+    turtle.forward(30)
+    turtle.left(90)
+
+root.mainloop()
