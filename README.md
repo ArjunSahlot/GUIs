@@ -1,2 +1,2 @@
 # GUIs
-Some GUIs
+Some GUIs to learn from
